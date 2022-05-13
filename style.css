@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.cnxreussie{
+	width:100%;
+
+	margin:auto;
+	max-width:525px;
+	min-height:650px;
+	position:relative;
+    border-radius: 50px;
+    background: linear-gradient(145deg, #b2b2b2, #a9a9a9);
+    box-shadow:  20px 20px 60px #787878,
+                -20px -20px 60px #858484;
+    margin-top: 10px;
+}
+.a{
+    margin-top: 50px;
+    padding-top: 25px;
+    text-align: center;
+}
+.text{
+    color: black;
+}
+.divider{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 230px;
+}
